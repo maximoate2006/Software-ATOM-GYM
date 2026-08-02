@@ -10,6 +10,9 @@ Esta plataforma permite una gestión de clientes de gimnasio con una precisión 
  
   - Permitir una organización de promos en el gimnasio limitando los horarios o turnos (Mañana, Tarde y Noche) y Días de la semana y que el consultar indique cuando no es su horario o su dia de entrenamiento.
  
+## Objetivo
+Siempre fue que la información de los empleados o el mismo dueño les permita tomar decisiones más claras y precisas sin tener la incertidumbre de algún problema y que pueda realizar sus actividades o trabajo que comúnmente es ayudar o limpiar en el gimnasio  
+ 
 # Imagenes
 <p 
 <align="center">
