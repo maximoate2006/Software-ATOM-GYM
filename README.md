@@ -9,3 +9,21 @@ Esta plataforma permite una gestión de clientes de gimnasio con una precisión 
   - Anotador automático de ingresos de cliente que permite indicar la fecha en la que venció y cuantas veces ingresó con la fecha caducada para el ingreso del gimnasio.
  
   - Permitir una organización de promos en el gimnasio limitando los horarios o turnos (Mañana, Tarde y Noche) y Días de la semana y que el consultar indique cuando no es su horario o su dia de entrenamiento.
+ 
+# Imagenes
+<p 
+<align="center">
+  
+<img src="imagenes/1.png" with="777">
+
+<img src="imagenes/2.png" with="777">
+
+<img src="imagenes/3.png" with="777">
+
+<img src="imagenes/4.png" with="777">
+
+<img src="imagenes/5.png" with="777">
+
+
+
+</p>
